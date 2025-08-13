@@ -1,4 +1,4 @@
-# Your Project's Title...
+# EDS-Demo-Docs
 Lee's Permanent EDS / Docs Demo Site
 ### Site URLs:
 Preview: https://main--eds-demo-docs--lklement.aem.page/
