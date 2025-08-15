@@ -2,7 +2,7 @@
 export default async function decorate(block) {
   const [quotation, attribution] = [...block.children].map((c) => c.firstElementChild);
   const blockquote = document.createElement('blockquote');
-  // decorate quotation //
+  // decorate quotation
   quotation.className = 'quote-quotation';
   blockquote.append(quotation);
   // decoration attribution
